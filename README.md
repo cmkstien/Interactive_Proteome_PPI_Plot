@@ -4,4 +4,4 @@ Paper and research is currently underway - currently just a repo containing the 
 
 Code and Paper coming soon - Figure is available at
 
-# https://colab.research.google.com/github/cmkstien/DispersionCurveGUI/blob/main/PredictingDispersionCurves_December12th.ipynb
+# [Google Colab Link](https://colab.research.google.com/github/cmkstien/DispersionCurveGUI/blob/main/PredictingDispersionCurves_December12th.ipynb)
